@@ -115,6 +115,3 @@ docker run -p 8501:8501 currency-converter:latest
 ```
 
 
-## Contact
-If you'd like help packaging this for a demo or GitHub Pages, I can add a `requirements.txt`, example screenshots, or a Dockerfile.
-
